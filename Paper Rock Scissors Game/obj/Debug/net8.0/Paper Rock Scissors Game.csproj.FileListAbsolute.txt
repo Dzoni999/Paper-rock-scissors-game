@@ -1,0 +1,14 @@
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\bin\Debug\net8.0\Paper Rock Scissors Game.exe
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\bin\Debug\net8.0\Paper Rock Scissors Game.deps.json
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\bin\Debug\net8.0\Paper Rock Scissors Game.runtimeconfig.json
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\bin\Debug\net8.0\Paper Rock Scissors Game.dll
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\bin\Debug\net8.0\Paper Rock Scissors Game.pdb
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\Paper Rock Scissors Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\Paper Rock Scissors Game.AssemblyInfoInputs.cache
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\Paper Rock Scissors Game.AssemblyInfo.cs
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\Paper Rock Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\Paper Rock Scissors Game.dll
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\refint\Paper Rock Scissors Game.dll
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\Paper Rock Scissors Game.pdb
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\Paper Rock Scissors Game.genruntimeconfig.cache
+C:\Users\Nikola Sajic\source\repos\Paper Rock Scissors Game\Paper Rock Scissors Game\obj\Debug\net8.0\ref\Paper Rock Scissors Game.dll
